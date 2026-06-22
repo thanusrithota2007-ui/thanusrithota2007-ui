@@ -205,27 +205,15 @@ Hackathon project that checks long-context narrative consistency using AI.
 
 # 😂 Data Scientist Mood
 
-<details>
-<summary>🐼 Click Me</summary>
+<p align="center">
+  <img src="./assets/import-pandas.jpg" width="260" alt="Import Pandas Sticker">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/bell-curve.jpg" width="360" alt="Bell Curve Sticker">
+</p>
 
-### import pandas
-
-> "If it isn't in a DataFrame, does it even exist?"
-
-</details>
-
-<details>
-<summary>📈 Statistics Mood</summary>
-
-### Living Life on the Edge of the Curve
-
-Sometimes you're the outlier.
-
-Sometimes you're the model.
-
-Always keep learning.
-
-</details>
+<p align="center">
+<i>Powered by Pandas • Living life on the edge of the curve 📈</i>
+</p>
 
 ---
 
